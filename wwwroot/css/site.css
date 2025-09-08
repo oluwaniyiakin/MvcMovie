@@ -1,0 +1,18 @@
+/* Existing styles … */
+
+body {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+/* Improve form input padding */
+input, select, textarea {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+/* Make tables look nicer */
+table {
+    margin-top: 1rem;
+}
